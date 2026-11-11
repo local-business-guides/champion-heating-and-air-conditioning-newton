@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/sitemap.xml
+Sitemap: https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news-sitemap.xml
