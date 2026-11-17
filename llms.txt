@@ -12,9 +12,9 @@
 - HVAC contractor
 
 ## Guides
-- [HVAC Contractor Newton: A Guide Before You Book](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton/): Hire an HVAC Contractor Newton homeowners can turn to for thoughtful repair guidance and service in Newton. Call Champion Heating & Air Conditioning today.
-- [HVAC Contractor Newton MA Homeowners Can Call](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton-ma/): HVAC Contractor Newton MA service with practical repair guidance for Newton homeowners. Call Champion Heating & Air Conditioning today to discuss service.
 - [HVAC Company Newton for Clear, Practical Service](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-company-newton/): HVAC Company Newton: get clear next steps from Champion Heating & Air Conditioning for your system. Call today for service in Newton and nearby areas.
+- [HVAC Contractor Newton MA Homeowners Can Call](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton-ma/): HVAC Contractor Newton MA service with practical repair guidance for Newton homeowners. Call Champion Heating & Air Conditioning today to discuss service.
+- [HVAC Contractor Newton: A Guide Before You Book](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton/): Hire an HVAC Contractor Newton homeowners can turn to for thoughtful repair guidance and service in Newton. Call Champion Heating & Air Conditioning today.
 - [HVAC Repair Newton When Your System Acts Up](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-repair-newton/): HVAC Repair Newton from NATE Certified technicians at Champion Heating & Air Conditioning. Call any time to discuss service in Newton and nearby areas.
 - [HVAC Installation Newton for Your Home](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-installation-newton/): HVAC Installation Newton: get clear guidance on system planning for your Newton home. Call Champion Heating & Air Conditioning to discuss your project.
 - [HVAC Replacement Newton: Know What to Ask](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-replacement-newton/): HVAC Replacement Newton: understand what to review when your system needs a change. Call Champion Heating & Air Conditioning in Newton to talk it through.
@@ -24,6 +24,7 @@
 - [Top Rated HVAC Contractor Ma Newton](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/top-rated-hvac-contractor-ma-newton/): Searching for a Top Rated HVAC Contractor Ma Newton? Get AC repair from NATE Certified technicians with emergency service. Call Champion in Newton today.
 
 ## Newsroom
+- [Champion Heating & Air Conditioning Shares Newton HVAC Guide](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news/2026-11-17-champion-heating-air-conditioning-shares-newton/): Champion Heating & Air Conditioning has published a guide to HVAC Company Newton, with related video, podcast and audio versions. (2026-11-17)
 - [Champion Heating & Air Conditioning Publishes Newton HVAC Guide](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news/2026-11-13-champion-heating-air-conditioning-publishes-newton/): The Newton HVAC company published a guide, a YouTube video, a podcast episode and a SoundCloud audio version this week. (2026-11-13)
 - [Champion Heating & Air Conditioning Shares Newton HVAC Contractor Information](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news/2026-11-11-champion-heating-air-conditioning-shares-newton/): Champion Heating & Air Conditioning has shared new information about HVAC contractors in Newton, with video, podcast and audio versions available. (2026-11-11)
 
@@ -35,4 +36,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news/rss.xml)
-- [Main resource site](https://champion-heating-newton.localbusinesses1.chatgpt.site)
+- [Main resource site](https://champion-heating-newton.localbusinesses1.chatgpt.site/resources)
