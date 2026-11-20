@@ -12,10 +12,10 @@
 - HVAC contractor
 
 ## Guides
+- [HVAC Repair Newton When Your System Acts Up](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-repair-newton/): HVAC Repair Newton from NATE Certified technicians at Champion Heating & Air Conditioning. Call any time to discuss service in Newton and nearby areas.
 - [HVAC Company Newton for Clear, Practical Service](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-company-newton/): HVAC Company Newton: get clear next steps from Champion Heating & Air Conditioning for your system. Call today for service in Newton and nearby areas.
 - [HVAC Contractor Newton MA Homeowners Can Call](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton-ma/): HVAC Contractor Newton MA service with practical repair guidance for Newton homeowners. Call Champion Heating & Air Conditioning today to discuss service.
 - [HVAC Contractor Newton: A Guide Before You Book](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-contractor-newton/): Hire an HVAC Contractor Newton homeowners can turn to for thoughtful repair guidance and service in Newton. Call Champion Heating & Air Conditioning today.
-- [HVAC Repair Newton When Your System Acts Up](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-repair-newton/): HVAC Repair Newton from NATE Certified technicians at Champion Heating & Air Conditioning. Call any time to discuss service in Newton and nearby areas.
 - [HVAC Installation Newton for Your Home](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-installation-newton/): HVAC Installation Newton: get clear guidance on system planning for your Newton home. Call Champion Heating & Air Conditioning to discuss your project.
 - [HVAC Replacement Newton: Know What to Ask](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-replacement-newton/): HVAC Replacement Newton: understand what to review when your system needs a change. Call Champion Heating & Air Conditioning in Newton to talk it through.
 - [HVAC Maintenance Newton: A Homeowner’s Guide](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/hvac-maintenance-newton/): Plan HVAC Maintenance Newton homeowners can discuss with a local contractor. Learn what to prepare and when to call Champion Heating & Air Conditioning.
@@ -36,4 +36,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/champion-heating-and-air-conditioning-newton/news/rss.xml)
-- [Main resource site](https://champion-heating-newton.localbusinesses1.chatgpt.site/resources)
+- [Main resource site](https://champion-newton-heating-air.localwebsites.chatgpt.site)
